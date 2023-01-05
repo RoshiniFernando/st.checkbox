@@ -4,7 +4,7 @@ import streamlit as st
 # Header text
 st.header('st.checkbox')
 
-st.write('Hi!')
+st.write('Hello!')
 st.write ('What would you like to order?')
 
 # Check boxes
